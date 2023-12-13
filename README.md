@@ -2,7 +2,23 @@
 
 
 # 💫 About Me:
-I am currently working as a front end programmer<br>I am constantly expanding my knowledge in new technologies and challenges in the area.<br>I am passionate about learning new things and I am very dedicated.
+
+Personal Website + Portfolio: brunolird.com
+
+Front End Developer with a user-friendly, intuitive and functional approach thanks to my extensive experience in Business Management to connect customers to the product, to drive project success by combining a solid understanding of business objectives with the ability to create exceptional user experiences. 
+
+• + years Front End experience.
+• Experience in Javascript.
+• Experience in HTML.
+• Experience in CSS. 
+• Experience in REACT. 
+• Experience in SASS.
+• Experience in TAILWIND.
+• Experience in MATERIAL UI.
+• Passion for UX perfectionism.
+• Development of applications with different screen resolutions. 
+• Technical English.
+• Ability to work as a team player, communicative, proactive and decisive.
 
 
 ## 🌐 Socials:
